@@ -1,3 +1,5 @@
+# Olá, sou o Alexandre!
+
 Sou desenvolvedor Full-Stack focado em criar soluções robustas, escaláveis e eficientes. Atualmente, divido meu tempo entre o desenvolvimento de sistemas SaaS e a gestão e inovação tecnológica voltada para a área educacional.
 
 ## Tecnologias & Ferramentas
