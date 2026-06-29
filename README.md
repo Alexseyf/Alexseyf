@@ -36,3 +36,24 @@ Sou desenvolvedor Full-Stack focado em criar soluções robustas, escaláveis e 
 | AWS Cloud Foundations | AWS Cloud Architecting |
 | :---: | :---: |
 | [![AWS Cloud Foundations](aws-academy-graduate-cloud-foundations-training-bad.png)](https://www.credly.com/badges/79dcb7e9-f30a-4c62-b017-24af80814952/public_url) | [![AWS Cloud Architecting](./aws-academy-graduate-cloud-architecting-training-ba.png)](https://www.credly.com/badges/b3e75342-06e6-4f19-a837-8d850b4d35bc/public_url) |
+
+## Especializações & Cursos Complementares (DIO)
+
+Aqui estão os cursos de especialização focados em arquitetura, desenvolvimento móvel e infraestrutura de dados que complementam minha formação:
+
+| Curso / Especialização | Stack / Foco | Certificado |
+| :--- | :---: | :---: |
+| **Construindo um App usando Sensor de Movimento** | `React Native` | [Visualizar](https://assets.dio.me/u0qwg8lhnnRiudWczGxaSSS6z4Wvrh9zz6YicWW-hj8/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80MkIxNTAzQy5qcGc) |
+| **Criando Aplicações Móveis Multiplataforma** | `React Native` | [Visualizar](https://assets.dio.me/ALNdBYM3ylZHHkhL2nuaGvsN4XH7UiuZUgPnu6j8o5g/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83QjIyMUUxRS5qcGc) |
+| **Construindo API Rest de Consulta de Cidades** | `Node.js / Express` | [Visualizar](https://assets.dio.me/LLxRgwqgHCGYp01xwKw_WoZ3Hscc0dmtDoC_dpoEiO0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83QjY0NDRDRS5qcGc) |
+| **Melhores Práticas com Bancos de Dados PostgreSQL** | `PostgreSQL / SQL` | [Visualizar](https://assets.dio.me/41hQ4ODoXx7JRse9m8qbhVi0OSEaiXMh9vYUNV6vBj4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci80QjUxMTM4OC5qcGc) |
+| **Introdução aos Conceitos de API e Clean Architecture** | `Arquitetura / API` | [Visualizar](https://assets.dio.me/bYdc8T3KzOOdeXN-C7QVs6sn9Sf5mlX40LrtVs8EmYI/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9BOTExNkJBQS5qcGc) |
+| **Fundamentos de Arquitetura de Sistemas** | `Arquitetura` | [Visualizar](https://assets.dio.me/S9aaKCMNng0s2ylVifvdiLoO9DBqcEvyoYPf9P5CIcw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83QjY0NDRDRS5qcGc) |
+
+<details>
+  <summary><b> Ver metodologias ágeis e conceitos fundamentais</b></summary>
+  <br />
+
+  * **Projetos ágeis com SCRUM** — [Certificado](https://assets.dio.me/PmbI29QP_VezTFPAjpcdK-Jv4_xcq378GuJgIZ-p5J4/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8zM0JCQTQ4MC5qcGc)
+  * **Pensamento Computacional** — [Certificado](https://assets.dio.me/vYnp-U_kKYsB395uZQU--p0rfxpKVJdoS6c2pEapdgw/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci8wQTJBNjFDNC5qcGc)
+</details>
